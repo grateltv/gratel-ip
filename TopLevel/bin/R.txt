@@ -1,0 +1,17 @@
+int drawable button 0x7f020000
+int drawable button_green 0x7f020001
+int drawable button_red 0x7f020002
+int drawable button_yellow 0x7f020003
+int drawable emo_im_winking 0x7f020004
+int drawable gtv_med 0x7f020005
+int drawable gtv_med_logo 0x7f020006
+int drawable ic 0x7f020007
+int id gridview 0x7f050002
+int id gtv_med_logo 0x7f050001
+int id main_layout 0x7f050000
+int layout main 0x7f030000
+int string app_name 0x7f040001
+int string hello 0x7f040000
+int string picture_description 0x7f040002
+int[] styleable top_level { 0x0101004c }
+int styleable top_level_android_galleryItemBackground 0
