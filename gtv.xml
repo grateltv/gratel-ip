@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='Utf-8' standalone='yes' ?>
+
+<Otdelenie ID='1'>
+ 
+   <Box ID='11'>
+     <Patient  fam='Петров' name='Иван' otch='Сидорович'> </Patient>
+     <Patient  fam='Иванов' name='Сидор' otch='Петрович'> </Patient>
+    </Box>   
+                                            
+   <Box ID='12'>
+     <Patient  fam='Федотов' name='Виктор' otch='Владимирович'> </Patient>
+    </Box>   
+                                            
+</Otdelenie>
+

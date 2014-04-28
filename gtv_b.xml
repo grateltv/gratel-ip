@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='Utf-8' standalone='yes' ?>
+
+<Otdelenie ID='1'>
+
+   <Box ID='18' boxname='Дежурный врач'>  
+     <Loudspeaker  number='1002'>Громко говорящее устройство </Loudspeaker >
+   </Box>                                                                                  
+
+
+   <Box ID='11' boxname='Бокс 1'>
+     <Loudspeaker  number='1011'>Громко говорящее устройство </Loudspeaker >
+       
+     <Button number='1015' box='1011'>Кнопки </Button>
+                                            
+   </Box>                                                                                  
+
+   <Box ID='12' boxname='Бокс 2'>
+     <Loudspeaker  number='1012'>Громко говорящее устройство </Loudspeaker >
+       
+     <Button number='1013' box='1012'>Кнопки </Button>
+
+     <Phone number='1014' box='1012' set='1'>Трубка </Phone>
+                                            
+   </Box>                                                                                  
+                                       
+   <Box ID='1300' boxname='Сообщение всему отделению'>  
+     <Loudspeaker  number='1300'>Громко говорящее устройство </Loudspeaker >
+   </Box>                                                                                  
+
+   <Box ID='1301' boxname='Штормовое предупреждение'>  
+     <Loudspeaker  number='1301'>Громко говорящее устройство </Loudspeaker >
+   </Box>                                                                                  
+
+   <Box ID='8888' boxname='Конференция'>  
+     <Loudspeaker  number='8888'>Громко говорящее устройство </Loudspeaker >
+   </Box>                                                                                  
+
+
+</Otdelenie>
